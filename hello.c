@@ -2,5 +2,6 @@
 
 int main()
 {
-  printf("hello world\n");
+  //programa bastante tonto
+	printf("hello world\n");
 }
