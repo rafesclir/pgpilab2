@@ -3,10 +3,9 @@
 
 
 //Función para calcular el factorial de un num
-
-int calcfact(int num)
+int calcfact(int n)
 {
-  if (num <= 1) return 1;
-  else return (num*calcfact(num-1));
+  if (n <= 1) return 1;
+  else return (n*calcfact(n-1));
 }
 //MARTA ESTA MODIFICANDO
