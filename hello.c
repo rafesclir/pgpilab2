@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+ juapercas1
 //juapercas1
 int main()
 {
@@ -8,7 +9,17 @@ int main()
 
 //Programa para saludar al mundo entero 
 int main()
+
+int main(int[] args)
+ master
 {
-  //Imprimimos en pantalla "Hello world"
+
+if (args[0] == "en"){
   printf("hello world\n");
+} else {
+  printf("Hola mundo\n");
 }
+
+}
+
+//Comentario de hello
