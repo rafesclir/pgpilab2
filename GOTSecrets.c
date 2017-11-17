@@ -2,13 +2,14 @@
 #include <stdio.h>
 
 int main (){
-int[16] card;
+int card[16];
 int i =0;
 for( i=0;i<17;i++){
 printf("Enter your C.Card numbers one by one (16)");
 scanf("%d",card);
 }
-robbingaplicationstart(card);
+//Aun hay que definirla
+//robbingaplicationstart(card);
 
 }
 
