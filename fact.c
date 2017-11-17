@@ -2,6 +2,8 @@
 #include <stdlib.h>
 //Esto es un comentario para rellenar
 #include "calcfact.h"
+
+//Calculadora de factoriales
 int main(int argc, char **argv)
 {
   int num;
