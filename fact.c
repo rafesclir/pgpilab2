@@ -4,12 +4,12 @@
 #include "calcfact.h"
 int main(int argc, char **argv)
 {
-  int num;
+  int numero;
   if (argc!=2)
   {
 	printf("uso: %s <numero>\n", argv[0]);
         exit(-1);
   }
-  num=atoi(argv[1]);
-  printf ("resultado: el factorial de [%d] es [%d].\n", num, calcfact(num));
+  numero=atoi(argv[1]);
+  printf ("resultado: el factorial de [%d] es [%d].\n", numero, calcfact(numero));
 }
