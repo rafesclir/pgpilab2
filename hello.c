@@ -1,3 +1,4 @@
+//modificado por david
 #include <stdio.h>
 
  juapercas1
@@ -8,12 +9,10 @@ int main()
 
 
 //Programa para saludar al mundo entero 
-int main()
+int main(int[] args) {
 
-int main(int[] args)
- master
-{
-
+//Imprimimos en pantalla "bye bye world"
+printf("bye bye world\n");
 if (args[0] == "en"){
   printf("hello world\n");
 } else {
