@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//comentario extraO
 #include "calcfact.h"
 int main(int argc, char **argv)
 {
