@@ -1,8 +1,9 @@
 //modificado por david
 #include <stdio.h>
 
- juapercas1
-//juapercas1
+//HOLI MARTA SALUDA
+//Programa para saludar al mundo entero 
+
 int main()
 {
   printf("HO-LA\n");
