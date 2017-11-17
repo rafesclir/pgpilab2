@@ -1,4 +1,4 @@
-
+//modificacion davleorui
 //Función para calcular el factorial de un num
 int calcfact(int num)
 {
