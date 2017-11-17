@@ -6,4 +6,5 @@ hello: hello.c
 fact: fact.c calcfact.c
 
 clean:
+	echo "No me borres"
 	rm -f *.o hello fact
