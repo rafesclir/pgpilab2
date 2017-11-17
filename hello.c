@@ -3,6 +3,6 @@
 //Programa para saludar al mundo entero 
 int main()
 {
-  //Imprimimos en pantalla "Hello world"
-  printf("hello world\n");
+  //Imprimimos en pantalla "bye bye world"
+  printf("bye bye world\n");
 }
