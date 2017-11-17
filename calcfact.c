@@ -1,6 +1,6 @@
+
+//modificacion davleorui
 //Comentario añadido por juafersan4
-
-
 
 //Función para calcular el factorial de un num
 int calcfact(int n)

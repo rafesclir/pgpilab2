@@ -1,3 +1,4 @@
+//modificado por david
 #include <stdio.h>
 
  juapercas1
