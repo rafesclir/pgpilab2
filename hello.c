@@ -1,6 +1,14 @@
 #include <stdio.h>
 
-int main(int[] args)
+ juapercas1
+//juapercas1
+int main()
+{
+  printf("HO-LA\n");
+
+
+//Programa para saludar al mundo entero 
+int main(int[] args) {
 
 //Imprimimos en pantalla "bye bye world"
 printf("bye bye world\n");
