@@ -12,6 +12,8 @@
  Repositorio para la práctica 7 de PGPI de Julio Alejandro González Mejías
  y modificado por David León Ruiz
 
+ Rafa Gálvez-Cañero estuvo aquí.
+
  ## Preguntas retóricas con respuesta ##
 
  Este archivo lo lee alguien?
