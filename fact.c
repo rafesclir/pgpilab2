@@ -7,7 +7,7 @@
 
 // Calculadora de factoriales
 int main(int argc, char **argv) {
-  int n;
+  int num;
   
   if (argc!=2) {
 	printf("uso: %s <nero>\n", argv[0]);
