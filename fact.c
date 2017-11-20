@@ -14,6 +14,8 @@ int main(int argc, char **argv) {
         exit(-1);
   }
 
-  n = atoi(argv[1]);
-  printf("resultado: el factorial de [%d] es [%d].\n", n, calcfact(n));
+  num=atoi(argv[1]);
+  printf ("resultado: el factorial de [%d] es [%d].\n", num, calcfact(num)); 
+  printf ("Prueba Fran");
+
 }

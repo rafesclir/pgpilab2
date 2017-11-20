@@ -16,6 +16,7 @@ int main(int[] args) {
 printf("bye bye world\n");
 if (args[0] == "en"){
   printf("hello world\n");
+  //Programa chorra
 } else {
   printf("Hola mundo\n");
 }
